@@ -11,7 +11,7 @@ I started my programming adventure in high school. I learned many programming la
 * 🚀  I'm currently working on [PoltergeistBot](http://discord.gg/gvjr8GzV2e)
 * 🧠  I'm learning MongoDB and NodeJS
 * 🤝  I'm open to collaborating on Discord Bot projects and Web projects
-* ⚡  I'm one of the "fathers" of the largest discord server network in poland - [Overtime Polska](https://linktr.ee/overtimepolska)
+* ⚡  I'm one of the "fathers" of the largest discord server network in poland - \[Overtime Polska\](https://linktr.ee/overtimepolska)
 
 ### Skills
 
@@ -23,7 +23,7 @@ I started my programming adventure in high school. I learned many programming la
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/its_kuma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ItsKuma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/ItsKuma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
