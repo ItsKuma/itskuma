@@ -25,12 +25,6 @@ I started my programming adventure in high school. I learned many programming la
 
 <p align="left"> <a href="https://www.github.com/ItsKuma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ItsKuma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKuma&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
